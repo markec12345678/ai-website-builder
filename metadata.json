@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "Generate and edit complete websites using Gemini AI.",
+  "requestFramePermissions": []
+}
